@@ -27,16 +27,25 @@ typedef struct elmlist *address;
 * IMPLEMENT CIRCULAR DOUBLE LINKED LIST
 */
 
+/**
+    CLASS      : IF-40-INT
+    NAME       : Muhammad Naimullah
+    STUDENT ID : 1301160449
+**/
+
 struct elmlist {
     //------------- your code here -----------
-
+    infotype info;
+    address next;
+    address prev;
 
     //----------------------------------------
 };
 
 struct List {
     //------------- your code here -----------
-
+    address first;
+    address last;
     //----------------------------------------
 };
 
