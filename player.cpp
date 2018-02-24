@@ -51,7 +51,7 @@ void shuffleList(List &L) {
     if(first(L)!=NULL){
         address Q = first(L);
         while(Q != first(L)){
-            MAX++;
+            MAX = MAX + 1;
             Q = next(Q);
         };
 

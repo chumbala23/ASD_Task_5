@@ -15,7 +15,7 @@
 	<windows.h>
 	<iostream>
 
-1519472784 source:d:\kuliah stuff\asd_task_2\asd_task_5\main.cpp
+1519472867 source:d:\kuliah stuff\asd_task_2\asd_task_5\main.cpp
 	"player.h"
 	"list.h"
 	<conio.h>
@@ -23,7 +23,7 @@
 1519464568 d:\kuliah stuff\asd_task_2\asd_task_5\player.h
 	"list.h"
 
-1519472546 source:d:\kuliah stuff\asd_task_2\asd_task_5\player.cpp
+1519473001 source:d:\kuliah stuff\asd_task_2\asd_task_5\player.cpp
 	"player.h"
 	<ctime>
 
